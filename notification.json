@@ -1,6 +1,7 @@
 {
   "isEnabled": true,
   "isUrlMode": false,
+  "isCancelable": false,
   "title": "نرم افزار زد",
   "text": "سلام به نرم افزار زد خوش آمدید امیدوارم که از این نرم افزار راضی باشید و به راحتی ازش استفاده کنید.",
   "okButton": "اوکی",
